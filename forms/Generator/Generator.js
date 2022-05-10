@@ -51,7 +51,8 @@
         		//localStorage.clear()
         		for (let i = 0; i < length; i++)
         		{
-        			randomNum = Math.floor(Math.random() * count); // create a random number max amount using length from generator
+        			randomNum = Math.floor(Math.random() * count); 
+// create a random number max amount using length from generator
         			console.log(randomNum);
         			var selected = generator.charAt(randomNum);
         			generatedPassword += selected; // stored as concatenation

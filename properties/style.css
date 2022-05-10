@@ -1,0 +1,21 @@
+body {
+  background: #f1f1f1;
+}
+
+
+.bs4-control-label {
+
+}
+
+#HeaderGlobal {
+  position:fixed;
+}
+
+#LabelResults {
+  height: 5;
+  overflow: hidden;
+}
+
+.text-primary {
+  max-height:5;
+}
